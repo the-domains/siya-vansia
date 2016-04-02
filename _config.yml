@@ -1,0 +1,28 @@
+name: Siya Vansia
+favicon: null
+layout_spectrum: 0.12510193791240454
+typography_spectrum: 0.6331729530356824
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.9714528990443796
+  lightness: 0.43220815854147077
+  saturation: 0.9270257507450879
+  rhythmicContrast: 0.2392424384597689
+purpose: []
